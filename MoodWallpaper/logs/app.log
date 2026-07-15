@@ -1,0 +1,222 @@
+2026-07-15 16:03:51 | INFO     | ============================================================
+2026-07-15 16:03:51 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:03:51 | INFO     | ============================================================
+2026-07-15 16:03:51 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:03:52 | INFO     | Camera initialized successfully.
+2026-07-15 16:03:53 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:03:54 | INFO     | Webcam released.
+2026-07-15 16:03:54 | ERROR    | Error during face detection: module 'mediapipe' has no attribute 'solutions'
+2026-07-15 16:03:54 | ERROR    | Aborting — no face detected in captured image.
+2026-07-15 16:03:54 | INFO     | Application finished.
+2026-07-15 16:03:54 | INFO     | ============================================================
+2026-07-15 16:06:04 | INFO     | ============================================================
+2026-07-15 16:06:04 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:06:04 | INFO     | ============================================================
+2026-07-15 16:06:04 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:06:04 | INFO     | Camera initialized successfully.
+2026-07-15 16:06:05 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:06:05 | INFO     | Webcam released.
+2026-07-15 16:06:06 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:06:08 | INFO     | Analyzing emotion...
+2026-07-15 16:06:08 | ERROR    | Emotion detection failed — no face found by DeepFace: ('Confirm that opencv is installed on your environment! Expected path ', 'C:\\Users\\vishn\\OneDrive\\Desktop\\My_desktop\\MoodWallpaper\\venv\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_default.xml', ' violated.')
+2026-07-15 16:06:08 | ERROR    | Aborting — emotion detection failed.
+2026-07-15 16:06:08 | INFO     | Application finished.
+2026-07-15 16:06:08 | INFO     | ============================================================
+2026-07-15 16:07:00 | INFO     | ============================================================
+2026-07-15 16:07:00 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:07:00 | INFO     | ============================================================
+2026-07-15 16:07:00 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:07:00 | INFO     | Camera initialized successfully.
+2026-07-15 16:07:01 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:07:01 | INFO     | Webcam released.
+2026-07-15 16:07:01 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:07:02 | INFO     | Analyzing emotion...
+2026-07-15 16:07:02 | ERROR    | Emotion detection failed — no face found by DeepFace: ⛓️‍💥 An exception occurred while downloading facial_expression_model_weights.h5 from https://github.com/serengil/deepface_models/releases/download/v1.0/facial_expression_model_weights.h5. Consider downloading it manually to C:\Users\vishn\.deepface\weights\facial_expression_model_weights.h5.
+2026-07-15 16:07:02 | ERROR    | Aborting — emotion detection failed.
+2026-07-15 16:07:02 | INFO     | Application finished.
+2026-07-15 16:07:02 | INFO     | ============================================================
+2026-07-15 16:07:35 | INFO     | ============================================================
+2026-07-15 16:07:35 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:07:35 | INFO     | ============================================================
+2026-07-15 16:07:35 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:07:36 | INFO     | Camera initialized successfully.
+2026-07-15 16:07:36 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:07:36 | INFO     | Webcam released.
+2026-07-15 16:07:36 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:07:37 | INFO     | Analyzing emotion...
+2026-07-15 16:07:37 | INFO     | Emotion detected: happy
+2026-07-15 16:07:37 | INFO     | Emotion scores: {'angry': np.float32(2.2089384), 'disgust': np.float32(1.1585818e-09), 'fear': np.float32(2.452008), 'happy': np.float32(59.275658), 'sad': np.float32(17.41623), 'surprise': np.float32(0.0030821767), 'neutral': np.float32(18.64409)}
+2026-07-15 16:07:37 | INFO     | Detected emotion: happy
+2026-07-15 16:07:37 | INFO     | Wallpaper selected: happy_sunrise.png
+2026-07-15 16:07:39 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\happy\happy_sunrise.png
+2026-07-15 16:07:39 | INFO     | Wallpaper changed to match mood: happy
+2026-07-15 16:07:39 | INFO     | Application finished.
+2026-07-15 16:07:39 | INFO     | ============================================================
+2026-07-15 16:08:34 | INFO     | ============================================================
+2026-07-15 16:08:34 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:08:34 | INFO     | ============================================================
+2026-07-15 16:08:34 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:08:35 | INFO     | Camera initialized successfully.
+2026-07-15 16:08:35 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:08:35 | INFO     | Webcam released.
+2026-07-15 16:08:35 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:08:36 | INFO     | Analyzing emotion...
+2026-07-15 16:08:36 | INFO     | Emotion detected: happy
+2026-07-15 16:08:36 | INFO     | Emotion scores: {'angry': np.float32(22.881746), 'disgust': np.float32(7.64856e-13), 'fear': np.float32(9.572243e-05), 'happy': np.float32(75.29659), 'sad': np.float32(0.16874845), 'surprise': np.float32(9.781943e-14), 'neutral': np.float32(1.6528175)}
+2026-07-15 16:08:36 | INFO     | Detected emotion: happy
+2026-07-15 16:08:36 | INFO     | Wallpaper selected: happy_sunrise.png
+2026-07-15 16:08:37 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\happy\happy_sunrise.png
+2026-07-15 16:08:37 | INFO     | Wallpaper changed to match mood: happy
+2026-07-15 16:08:37 | INFO     | Application finished.
+2026-07-15 16:08:37 | INFO     | ============================================================
+2026-07-15 16:09:00 | INFO     | ============================================================
+2026-07-15 16:09:00 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:09:00 | INFO     | ============================================================
+2026-07-15 16:09:00 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:09:00 | INFO     | Camera initialized successfully.
+2026-07-15 16:09:00 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:09:01 | INFO     | Webcam released.
+2026-07-15 16:09:01 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:09:02 | INFO     | Analyzing emotion...
+2026-07-15 16:09:02 | INFO     | Emotion detected: neutral
+2026-07-15 16:09:02 | INFO     | Emotion scores: {'angry': np.float32(0.00042570176), 'disgust': np.float32(2.4834973e-13), 'fear': np.float32(0.000104640174), 'happy': np.float32(0.017854044), 'sad': np.float32(0.166093), 'surprise': np.float32(2.0547078e-07), 'neutral': np.float32(99.81551)}
+2026-07-15 16:09:02 | INFO     | Detected emotion: neutral
+2026-07-15 16:09:02 | INFO     | Wallpaper selected: neutral_zen.png
+2026-07-15 16:09:03 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\neutral\neutral_zen.png
+2026-07-15 16:09:03 | INFO     | Wallpaper changed to match mood: neutral
+2026-07-15 16:09:03 | INFO     | Application finished.
+2026-07-15 16:09:03 | INFO     | ============================================================
+2026-07-15 16:09:28 | INFO     | ============================================================
+2026-07-15 16:09:28 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:09:28 | INFO     | ============================================================
+2026-07-15 16:09:28 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:09:29 | INFO     | Camera initialized successfully.
+2026-07-15 16:09:29 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:09:30 | INFO     | Webcam released.
+2026-07-15 16:09:30 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:09:30 | INFO     | Analyzing emotion...
+2026-07-15 16:09:31 | INFO     | Emotion detected: angry
+2026-07-15 16:09:31 | INFO     | Emotion scores: {'angry': np.float32(44.87402), 'disgust': np.float32(0.11634397), 'fear': np.float32(35.5104), 'happy': np.float32(0.48886994), 'sad': np.float32(10.253191), 'surprise': np.float32(1.9175609), 'neutral': np.float32(6.839608)}
+2026-07-15 16:09:31 | INFO     | Detected emotion: angry
+2026-07-15 16:09:31 | INFO     | Wallpaper selected: angry_storm.png
+2026-07-15 16:09:32 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\angry\angry_storm.png
+2026-07-15 16:09:32 | INFO     | Wallpaper changed to match mood: angry
+2026-07-15 16:09:32 | INFO     | Application finished.
+2026-07-15 16:09:32 | INFO     | ============================================================
+2026-07-15 16:12:54 | INFO     | ============================================================
+2026-07-15 16:12:54 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:12:54 | INFO     | ============================================================
+2026-07-15 16:12:54 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:12:55 | INFO     | Camera initialized successfully.
+2026-07-15 16:12:55 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:12:56 | INFO     | Webcam released.
+2026-07-15 16:12:56 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:12:56 | INFO     | Analyzing emotion...
+2026-07-15 16:12:57 | INFO     | Emotion detected: fear
+2026-07-15 16:12:57 | INFO     | Emotion scores: {'angry': np.float32(0.19858873), 'disgust': np.float32(1.6235657e-10), 'fear': np.float32(99.77902), 'happy': np.float32(7.4800078e-06), 'sad': np.float32(0.022266075), 'surprise': np.float32(3.7724298e-05), 'neutral': np.float32(7.505893e-05)}
+2026-07-15 16:12:57 | INFO     | Detected emotion: fear
+2026-07-15 16:12:57 | INFO     | Wallpaper selected: fear_dark_forest.png
+2026-07-15 16:12:58 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\fear\fear_dark_forest.png
+2026-07-15 16:12:58 | INFO     | Wallpaper changed to match mood: fear
+2026-07-15 16:12:58 | INFO     | Application finished.
+2026-07-15 16:12:58 | INFO     | ============================================================
+2026-07-15 16:13:31 | INFO     | ============================================================
+2026-07-15 16:13:31 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:13:31 | INFO     | ============================================================
+2026-07-15 16:13:31 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:13:31 | INFO     | Camera initialized successfully.
+2026-07-15 16:13:32 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:13:32 | INFO     | Webcam released.
+2026-07-15 16:13:32 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:13:33 | INFO     | Analyzing emotion...
+2026-07-15 16:13:33 | INFO     | Emotion detected: fear
+2026-07-15 16:13:33 | INFO     | Emotion scores: {'angry': np.float32(17.234259), 'disgust': np.float32(4.6233985e-12), 'fear': np.float32(46.194004), 'happy': np.float32(0.020852018), 'sad': np.float32(36.5273), 'surprise': np.float32(2.350717e-06), 'neutral': np.float32(0.023584567)}
+2026-07-15 16:13:33 | INFO     | Detected emotion: fear
+2026-07-15 16:13:33 | INFO     | Wallpaper selected: fear_cathedral.png
+2026-07-15 16:13:34 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\fear\fear_cathedral.png
+2026-07-15 16:13:34 | INFO     | Wallpaper changed to match mood: fear
+2026-07-15 16:13:34 | INFO     | Application finished.
+2026-07-15 16:13:34 | INFO     | ============================================================
+2026-07-15 16:13:54 | INFO     | ============================================================
+2026-07-15 16:13:54 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:13:54 | INFO     | ============================================================
+2026-07-15 16:13:54 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:13:54 | INFO     | Camera initialized successfully.
+2026-07-15 16:13:55 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:13:55 | INFO     | Webcam released.
+2026-07-15 16:13:55 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:13:56 | INFO     | Analyzing emotion...
+2026-07-15 16:13:56 | INFO     | Emotion detected: angry
+2026-07-15 16:13:56 | INFO     | Emotion scores: {'angry': np.float32(45.070217), 'disgust': np.float32(1.1286209e-11), 'fear': np.float32(39.301483), 'happy': np.float32(0.11943171), 'sad': np.float32(15.494954), 'surprise': np.float32(1.313684e-06), 'neutral': np.float32(0.013917546)}
+2026-07-15 16:13:56 | INFO     | Detected emotion: angry
+2026-07-15 16:13:56 | INFO     | Wallpaper selected: angry_storm.png
+2026-07-15 16:13:57 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\angry\angry_storm.png
+2026-07-15 16:13:57 | INFO     | Wallpaper changed to match mood: angry
+2026-07-15 16:13:57 | INFO     | Application finished.
+2026-07-15 16:13:57 | INFO     | ============================================================
+2026-07-15 16:32:17 | INFO     | ============================================================
+2026-07-15 16:32:17 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:32:17 | INFO     | ============================================================
+2026-07-15 16:32:17 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:32:18 | INFO     | Camera initialized successfully.
+2026-07-15 16:32:18 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:32:19 | INFO     | Webcam released.
+2026-07-15 16:32:19 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:32:20 | INFO     | Analyzing emotion...
+2026-07-15 16:32:20 | INFO     | Emotion detected: sad
+2026-07-15 16:32:20 | INFO     | Emotion scores: {'angry': np.float32(2.0448367e-06), 'disgust': np.float32(4.359734e-14), 'fear': np.float32(0.00018760003), 'happy': np.float32(1.8431112e-06), 'sad': np.float32(99.99536), 'surprise': np.float32(9.762911e-13), 'neutral': np.float32(0.0044518905)}
+2026-07-15 16:32:20 | INFO     | --------------------------------------------------
+2026-07-15 16:32:20 | INFO     | [EMOTION]  Detected    : SAD
+2026-07-15 16:32:20 | INFO     | [GOAL]     Therapeutic : Improve mood
+2026-07-15 16:32:20 | INFO     | [THEME]    Wallpaper   : Uplifting sunrise, rainbows and spring blossoms
+2026-07-15 16:32:20 | INFO     | [MESSAGE]  The sun always rises after the darkest night. You've got this!
+2026-07-15 16:32:20 | INFO     | --------------------------------------------------
+2026-07-15 16:32:20 | INFO     | Wallpaper selected: sad_uplift_sunrise.jpg
+2026-07-15 16:32:21 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\sad\sad_uplift_sunrise.jpg
+2026-07-15 16:32:21 | INFO     | Wallpaper changed to support mood: sad
+2026-07-15 16:32:21 | INFO     | Application finished.
+2026-07-15 16:32:21 | INFO     | ============================================================
+2026-07-15 16:32:50 | INFO     | ============================================================
+2026-07-15 16:32:50 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:32:50 | INFO     | ============================================================
+2026-07-15 16:32:50 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:32:51 | INFO     | Camera initialized successfully.
+2026-07-15 16:32:51 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:32:52 | INFO     | Webcam released.
+2026-07-15 16:32:52 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:32:53 | INFO     | Analyzing emotion...
+2026-07-15 16:32:53 | INFO     | Emotion detected: fear
+2026-07-15 16:32:53 | INFO     | Emotion scores: {'angry': np.float32(2.0692856e-05), 'disgust': np.float32(3.0903808e-12), 'fear': np.float32(99.4609), 'happy': np.float32(0.0007538405), 'sad': np.float32(0.52159524), 'surprise': np.float32(0.006645584), 'neutral': np.float32(0.010092114)}
+2026-07-15 16:32:53 | INFO     | --------------------------------------------------
+2026-07-15 16:32:53 | INFO     | [EMOTION]  Detected    : FEAR
+2026-07-15 16:32:53 | INFO     | [GOAL]     Therapeutic : Reduce anxiety
+2026-07-15 16:32:53 | INFO     | [THEME]    Wallpaper   : Warm cozy lighting, safe meadows and gentle scenes
+2026-07-15 16:32:53 | INFO     | [MESSAGE]  You are not alone. This moment will pass, and you will be just fine.
+2026-07-15 16:32:53 | INFO     | --------------------------------------------------
+2026-07-15 16:32:53 | INFO     | Wallpaper selected: fear_safe_gentle_meadow.jpg
+2026-07-15 16:32:54 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\fear\fear_safe_gentle_meadow.jpg
+2026-07-15 16:32:54 | INFO     | Wallpaper changed to support mood: fear
+2026-07-15 16:32:54 | INFO     | Application finished.
+2026-07-15 16:32:54 | INFO     | ============================================================
+2026-07-15 16:33:24 | INFO     | ============================================================
+2026-07-15 16:33:24 | INFO     | Mood-Based Dynamic Wallpaper System — Application started
+2026-07-15 16:33:24 | INFO     | ============================================================
+2026-07-15 16:33:24 | INFO     | Initializing webcam (index=0)...
+2026-07-15 16:33:25 | INFO     | Camera initialized successfully.
+2026-07-15 16:33:25 | INFO     | Image captured successfully (resolution: 640x480).
+2026-07-15 16:33:26 | INFO     | Webcam released.
+2026-07-15 16:33:26 | INFO     | Face detected (1 face(s) found).
+2026-07-15 16:33:27 | INFO     | Analyzing emotion...
+2026-07-15 16:33:27 | INFO     | Emotion detected: happy
+2026-07-15 16:33:27 | INFO     | Emotion scores: {'angry': np.float32(6.1616284e-08), 'disgust': np.float32(3.6653042e-22), 'fear': np.float32(3.73606e-09), 'happy': np.float32(100.0), 'sad': np.float32(4.4140302e-07), 'surprise': np.float32(1.6147611e-13), 'neutral': np.float32(4.1182335e-13)}
+2026-07-15 16:33:27 | INFO     | --------------------------------------------------
+2026-07-15 16:33:27 | INFO     | [EMOTION]  Detected    : HAPPY
+2026-07-15 16:33:27 | INFO     | [GOAL]     Therapeutic : Maintain happiness
+2026-07-15 16:33:27 | INFO     | [THEME]    Wallpaper   : Vibrant nature and joyful scenery
+2026-07-15 16:33:27 | INFO     | [MESSAGE]  A happy you makes everything better. Enjoy your day to the fullest!
+2026-07-15 16:33:27 | INFO     | --------------------------------------------------
+2026-07-15 16:33:27 | INFO     | Wallpaper selected: happy_bright_forest.jpg
+2026-07-15 16:33:28 | INFO     | Wallpaper updated successfully to: C:\Users\vishn\OneDrive\Desktop\My_desktop\MoodWallpaper\wallpapers\happy\happy_bright_forest.jpg
+2026-07-15 16:33:28 | INFO     | Wallpaper changed to support mood: happy
+2026-07-15 16:33:28 | INFO     | Application finished.
+2026-07-15 16:33:28 | INFO     | ============================================================
